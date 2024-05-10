@@ -5,13 +5,15 @@ labels:
   - name: 🐞 bug
     color: ee0701
     description: this isn't working as expected
+    oldname: bug
   - name: ✨ feature request
     color: fbca04
     description: a new feature request
   - name: ⚡️ enhancement
     color: a2eeef
     description: improvement over an existing feature
-  - name: ♦️  need repro
+    oldname: enhancement
+  - name: ♦️ need repro
     color: c9581c
     description: the issue needs a reproduction for further investigation
   - name: 🧑‍💻 has workaround
@@ -26,12 +28,15 @@ labels:
   - name: 💬 discussion
     color: 4935ad
     description: topic that requires further discussion
+    oldname: discussion
   - name: 📚 docs
     color: 8be281
     description: related to documentation
-  - name: 1️⃣  good first issue
+    oldname: documentation
+  - name: 1️⃣ good first issue
     color: 7057ff
     description: this should be manageable for new-comers
+    oldname: good first issue
   - name: 🙏 help wanted
     color: 008672
     description: help in this issue is welcome
