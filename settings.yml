@@ -1,7 +1,7 @@
 # https://github.com/apps/settings
 # https://github.com/repository-settings/app
 # NOTE: Color values are quoted to avoid YAML misinterpreting hex as numbers
-# After pushing for the first time replace name with new_name value and remove
+# NOTE: After pushing for the first time replace name with new_name value and remove
 # the new_name property
 
 repository:
